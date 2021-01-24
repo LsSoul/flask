@@ -1,0 +1,6 @@
+form flaskproj import app
+import os
+
+if __name__ == "__main__":
+    os.
+    app.run()
